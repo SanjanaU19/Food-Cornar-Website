@@ -1,0 +1,68 @@
+body{
+    background-color: beige;
+}
+
+nav {
+    background-color: brown;
+    padding: 15px;
+    text-align: right;
+}
+
+nav a {
+    color: white;
+    font-weight: 200;
+    font-size:large;
+}
+
+
+h1{
+    color:darkblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2{
+    color:darkblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+marquee {
+    color: blue;
+    background-color:azure;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+table{
+    color:crimson;
+    font-size: 20px;
+    background-color: aliceblue;
+    font-weight: 200;
+}
+
+h3{
+    color:blue;
+    font-size:x-large;
+    background-color:aliceblue;
+}
+
+p{
+    color:darkred;
+}
+
+#i2{
+    color:blue;
+    font-weight: bold ;
+}
+
+#i1{
+    background-color: aliceblue;
+    color:brown;
+}
+
+#id1{
+    color:brown;
+    background-color:aliceblue;
+    font-weight: bolder;
+}
